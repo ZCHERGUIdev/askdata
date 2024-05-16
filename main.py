@@ -6,7 +6,7 @@ import streamlit as st
 
 def main():
 
-    os.environ["OPENAI_API_KEY"] = "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"
+    os.environ["OPENAI_API_KEY"] = "sk-tfxT5sGTnjhvjhgjmpF5T3Blbkh8jkjjujvb0qqFkjbGQ9KMW"
 
 
    
